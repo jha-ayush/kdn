@@ -54,17 +54,36 @@
 
 		<div id="fh5co-wrapper">
 		<div id="fh5co-page">
+			
 		<div class="header-top">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 col-sm-6 text-left fh5co-link">
+					<div class="col-md-6 col-sm-12 text-left fh5co-link">
             <a style="font-size:16px; font-weight:bold;" href="faq.html">FAQ</a>
 						<a style="font-size:16px; font-weight:bold;" href="subscribe.html">SUBSCRIBE</a>
-            <a style="font-size:16px; font-weight:bold;" href="donate.html">DONATE</a>
 					</div>
-					<div class="col-md-6 col-sm-6 text-center">
+					<div class="col-md-6 col-sm-12 text-center">
 						<a target="_blank" href="https://www.facebook.com/kambatadevelopment/"><button type="button" class="btn btn-md btn-info grow"><i class="icon-facebook2"></i> Facebook Login</button></a>
 					</div>
+					<div class="col-md-6 col-sm-12 text-left">
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<!-- Identify your business so that you can collect the payments. -->
+							<input type="hidden" name="business"
+									value="donations@kdneth.org">
+							<!-- Specify a Donate button. -->
+							<input type="hidden" name="cmd" value="_donations">
+							<!-- Specify details about the contribution -->
+							<input type="hidden" name="item_name" value="Friends of the Park">
+							<input type="hidden" name="item_number" value="Fall Cleanup Campaign">
+							<input type="hidden" name="currency_code" value="USD">
+							<!-- Display the payment button. -->
+							<input type="image" name="submit"
+							src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png"
+							alt="DONATE">
+							<img alt="" width="1" height="1"
+							src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif">
+						</form>
+		      </div>
 				</div>
 			</div>
 		</div>
@@ -96,7 +115,23 @@
     <!-- DONATE -->
     <div class="container">
       <div class="row">
-
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+					<!-- Identify your business so that you can collect the payments. -->
+					<input type="hidden" name="business"
+							value="donations@kdneth.org">
+					<!-- Specify a Donate button. -->
+					<input type="hidden" name="cmd" value="_donations">
+					<!-- Specify details about the contribution -->
+					<input type="hidden" name="item_name" value="Friends of the Park">
+					<input type="hidden" name="item_number" value="Fall Cleanup Campaign">
+					<input type="hidden" name="currency_code" value="USD">
+					<!-- Display the payment button. -->
+					<input type="image" name="submit"
+					src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png"
+					alt="DONATE">
+					<img alt="" width="1" height="1"
+					src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif">
+				</form>
       </div>
     </div>
     <!-- END DONATE -->
