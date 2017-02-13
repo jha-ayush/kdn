@@ -532,7 +532,7 @@ figure {
 #fh5co-work-section_2,
 #fh5co-blog-section,
 #fh5co-features {
-  padding: 7em 0;
+  padding: 1em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-work-section,
@@ -541,7 +541,7 @@ figure {
   #fh5co-work-section_2,
   #fh5co-blog-section,
   #fh5co-features {
-    padding: 4em 0;
+    padding: 1em 0;
   }
 }
 
@@ -683,7 +683,7 @@ figure {
 }
 
 #fh5co-portfolio {
-  padding: 7em 0;
+  padding: 1em 0;
   min-height: 500px;
 }
 @media screen and (max-width: 768px) {
@@ -814,7 +814,7 @@ figure {
 }
 
 #fh5co-features {
-  padding: 4em 0;
+  padding: 1em 0;
 }
 #fh5co-features .feature-left {
   margin-bottom: 0;
@@ -874,15 +874,15 @@ figure {
 }
 
 #fh5co-feature-product {
-  padding: 7em 0;
+  padding: 1em 0;
 }
 
 #fh5co-services, #fh5co-about, #fh5co-contact {
-  padding: 7em 0;
+  padding: 1em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-services, #fh5co-about, #fh5co-contact {
-    padding: 4em 0;
+    padding: 1em 0;
   }
 }
 
@@ -980,7 +980,7 @@ figure {
 .fh5co-testimonial, .fh5co-team {
   position: relative;
   background: #fff;
-  padding: 4em 0;
+  padding: 1em 0;
   border-radius: 5px;
 }
 @media screen and (max-width: 768px) {
@@ -1099,7 +1099,7 @@ figure {
 }
 
 #fh5co-start-project-section {
-  padding: 7em 0;
+  padding: 1em 0;
   background: #F64E8B;
 }
 #fh5co-start-project-section h2 {
@@ -1385,7 +1385,7 @@ figure {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-lg {
@@ -1394,7 +1394,7 @@ figure {
 }
 
 .row-top-padded-lg {
-  padding-top: 7em;
+  padding-top: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-top-padded-lg {
@@ -1403,7 +1403,7 @@ figure {
 }
 
 .row-bottom-padded-md {
-  padding-bottom: 4em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-md {
@@ -1412,7 +1412,7 @@ figure {
 }
 
 .row-top-padded-md {
-  padding-top: 4em;
+  padding-top: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-top-padded-md {
@@ -1512,7 +1512,7 @@ figure {
               transform: translate3d(-50%,-50%,0);
 }
 .hero h1 {
-    font-size: 4em;
+    font-size: 1em;
     font-weight: bold;
     margin: 0;
     padding: 0;
