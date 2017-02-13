@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 30px 0;
 }
 figure {
-	margin-bottom: 1em;
+	margin-bottom: 1.5em;
 }
 ::-webkit-selection {
   color: $brand-body-color;
@@ -273,7 +273,7 @@ figure {
 		padding: 3em 0;
 	}
 	.btn {
-		padding: 1em 1em;
+		padding: 1.5em 1.5em;
 		opacity: .9;
 	}
 	&.fh5co-cover_2{
@@ -347,13 +347,13 @@ figure {
 .sf-menu ul {
 	box-shadow: none;
 	border: transparent;
-	min-width: 11em;
-	*width: 11em;
+	min-width: 11.5em;
+	*width: 11.5em;
 }
 
 .sf-menu a {
 	color: rgba(0,0,0,.5);
-	padding: .75em 1em!important;
+	padding: .75em 1.5em!important;
 	font-weight: normal;
 	border-left: none;
 	border-top: none;
@@ -385,7 +385,7 @@ figure {
 .sf-menu ul li a,
 .sf-menu ul ul li a {
 	text-transform: none;
-	padding: .20em 1em!important;
+	padding: .20em 1.5em!important;
 	letter-spacing: 1px;
 	font-size: 14px!important;
 }
@@ -408,13 +408,13 @@ figure {
 }
 .sf-arrows .sf-with-ul {
 	padding-right: 2.5em;
-	*padding-right: 1em;
+	*padding-right: 1.5em;
 }
 .sf-arrows .sf-with-ul:after {
 	content: '';
 	position: absolute;
 	top: 50%;
-	right: 1em;
+	right: 1.5em;
 	margin-top: -3px;
 	height: 0;
 	width: 0;
@@ -487,7 +487,7 @@ figure {
 	float: right;
 	margin-top: 40px;
 	.sf-menu a {
-		padding: 1em .75em;
+		padding: 1.5em .75em;
 	}
 }
 #fh5co-primary-menu {
@@ -617,9 +617,9 @@ figure {
 #fh5co-work-section_2,
 #fh5co-blog-section,
 #fh5co-features {
-	padding: 1em 0;
+	padding: 1.5em 0;
 	@media screen and (max-width: $screen-sm) {
-		padding: 1em 0;
+		padding: 1.5em 0;
 	}
 
 }
@@ -628,7 +628,7 @@ figure {
 }
 
 .heading-section{
-	padding-bottom: 1em;
+	padding-bottom: 1.5em;
 	margin-bottom: 5em;
 	&:after{
 		position: absolute;
@@ -659,7 +659,7 @@ figure {
 		margin-bottom: 10px;
 		font-weight: 700;
 		color: $brand-black;
-		letter-spacing: .1em;
+		letter-spacing: .1.5em;
 		.number {
 			margin-right: 5px;
 			color: $brand-primary;
@@ -755,7 +755,7 @@ figure {
 
 
 #fh5co-portfolio {
-	padding: 1em 0;
+	padding: 1.5em 0;
 	// background: #303841;
 	min-height: 500px;
 	@media screen and (max-width: $screen-sm) {
@@ -788,7 +788,7 @@ figure {
 		}
 		a {
 			min-height: 400px;
-			padding: 1em;
+			padding: 1.5em;
 			position: relative;
 			width: 100%;
 			display: block;
@@ -813,15 +813,15 @@ figure {
 
 			.case-studies-summary {
 			   width: auto;
-			   bottom: 1em;
-			   left: 1em;
-			   right: 1em;
+			   bottom: 1.5em;
+			   left: 1.5em;
+			   right: 1.5em;
 			   position: absolute;
 			   z-index: 100;
 			   @media screen and (max-width: $screen-sm) {
-			   	bottom: 1em;
-				   left: 1em;
-				   right: 1em;
+			   	bottom: 1.5em;
+				   left: 1.5em;
+				   right: 1.5em;
 			   }
 			   span {
 			   	text-transform: uppercase;
@@ -870,7 +870,7 @@ figure {
 
 
 #fh5co-features {
-	padding: 1em 0;
+	padding: 1.5em 0;
 
 
 	.feature-left {
@@ -922,13 +922,13 @@ figure {
 	}
 }
 #fh5co-feature-product {
-	padding: 1em 0;
+	padding: 1.5em 0;
 }
 
 #fh5co-services, #fh5co-about, #fh5co-contact {
-	padding: 1em 0;
+	padding: 1.5em 0;
 	@media screen and (max-width: $screen-sm) {
-		padding: 1em 0;
+		padding: 1.5em 0;
 	}
 }
 
@@ -1025,7 +1025,7 @@ figure {
 .fh5co-testimonial, .fh5co-team{
 	position: relative;
 	background: $brand-white;
-	padding: 1em 0;
+	padding: 1.5em 0;
 	border-radius: 5px;
 
 	@media screen and (max-width: $screen-sm) {
@@ -1156,7 +1156,7 @@ figure {
 }
 
 #fh5co-start-project-section{
-	padding: 1em 0;
+	padding: 1.5em 0;
 	background: #F64E8B;
 	h2{
 		color: rgba(255,255,255,1);
@@ -1428,7 +1428,7 @@ figure {
   	@media screen and (max-width: $screen-sm) {
   		display: block;
   		top: 0px;
-  		margin-top: 1em;
+  		margin-top: 1.5em;
   	}
 
 }
@@ -1445,39 +1445,39 @@ figure {
 }
 
 .row-bottom-padded-lg {
-	padding-bottom: 1em;
+	padding-bottom: 1.5em;
 	@media screen and (max-width: $screen-sm ) {
-		padding-bottom: 1em;
+		padding-bottom: 1.5em;
 	}
 }
 .row-top-padded-lg {
-	padding-top: 1em;
+	padding-top: 1.5em;
 	@media screen and (max-width: $screen-sm ) {
-		padding-top: 1em;
+		padding-top: 1.5em;
 	}
 }
 .row-bottom-padded-md {
-	padding-bottom: 1em;
+	padding-bottom: 1.5em;
 	@media screen and (max-width: $screen-sm ) {
-		padding-bottom: 1em;
+		padding-bottom: 1.5em;
 	}
 }
 .row-top-padded-md {
-	padding-top: 1em;
+	padding-top: 1.5em;
 	@media screen and (max-width: $screen-sm ) {
-		padding-top: 1em;
+		padding-top: 1.5em;
 	}
 }
 .row-bottom-padded-sm {
-	padding-bottom: 1em;
+	padding-bottom: 1.5em;
 	@media screen and (max-width: $screen-sm ) {
-		padding-bottom: 1em;
+		padding-bottom: 1.5em;
 	}
 }
 .row-top-padded-sm {
-	padding-top: 1em;
+	padding-top: 1.5em;
 	@media screen and (max-width: $screen-sm ) {
-		padding-top: 1em;
+		padding-top: 1.5em;
 	}
 }
 
