@@ -179,7 +179,7 @@ figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover {
     heifght: inherit;
-    padding: 3em 0;
+    padding: 4em 0;
   }
 }
 .fh5co-cover .btn {
@@ -192,7 +192,7 @@ figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover.fh5co-cover_2 {
     heifght: inherit;
-    padding: 3em 0;
+    padding: 4em 0;
   }
 }
 .fh5co-cover .desc {
@@ -538,7 +538,7 @@ figure {
 #fh5co-work-section_2,
 #fh5co-blog-section,
 #fh5co-features {
-  padding: 7em 0;
+  padding: 4em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-work-section,
@@ -689,12 +689,12 @@ figure {
 }
 
 #fh5co-portfolio {
-  padding: 7em 0;
+  padding: 4em 0;
   min-height: 500px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-portfolio {
-    padding: 3em 0;
+    padding: 4em 0;
   }
 }
 
@@ -880,11 +880,11 @@ figure {
 }
 
 #fh5co-feature-product {
-  padding: 7em 0;
+  padding: 4em 0;
 }
 
 #fh5co-services, #fh5co-about, #fh5co-contact {
-  padding: 7em 0;
+  padding: 4em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-services, #fh5co-about, #fh5co-contact {
@@ -949,7 +949,7 @@ figure {
 }
 #fh5co-contact .contact-info li i {
   position: absolute;
-  top: .3em;
+  top: .4em;
   left: 0;
   font-size: 22px;
   color: rgba(0, 0, 0, 0.3);
@@ -1105,7 +1105,7 @@ figure {
 }
 
 #fh5co-start-project-section {
-  padding: 7em 0;
+  padding: 4em 0;
   background: #F64E8B;
 }
 #fh5co-start-project-section h2 {
@@ -1391,7 +1391,7 @@ figure {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 4em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-lg {
@@ -1400,7 +1400,7 @@ figure {
 }
 
 .row-top-padded-lg {
-  padding-top: 7em;
+  padding-top: 4em;
 }
 @media screen and (max-width: 768px) {
   .row-top-padded-lg {

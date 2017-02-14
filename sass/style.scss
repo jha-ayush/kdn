@@ -270,7 +270,7 @@ figure {
 	position: relative;
 	@media screen and (max-width: $screen-sm) {
 		heifght: inherit;
-		padding: 3em 0;
+		padding: 4em 0;
 	}
 	.btn {
 		padding: 1em 2em;
@@ -280,7 +280,7 @@ figure {
 		height: 600px;
 		@media screen and (max-width: $screen-sm) {
 			heifght: inherit;
-			padding: 3em 0;
+			padding: 4em 0;
 		}
 
 	}
@@ -617,7 +617,7 @@ figure {
 #fh5co-work-section_2,
 #fh5co-blog-section,
 #fh5co-features {
-	padding: 7em 0;
+	padding: 4em 0;
 	@media screen and (max-width: $screen-sm) {
 		padding: 4em 0;
 	}
@@ -755,11 +755,11 @@ figure {
 
 
 #fh5co-portfolio {
-	padding: 7em 0;
+	padding: 4em 0;
 	// background: #303841;
 	min-height: 500px;
 	@media screen and (max-width: $screen-sm) {
-		padding: 3em 0;
+		padding: 4em 0;
 	}
 
 }
@@ -922,11 +922,11 @@ figure {
 	}
 }
 #fh5co-feature-product {
-	padding: 7em 0;
+	padding: 4em 0;
 }
 
 #fh5co-services, #fh5co-about, #fh5co-contact {
-	padding: 7em 0;
+	padding: 4em 0;
 	@media screen and (max-width: $screen-sm) {
 		padding: 4em 0;
 	}
@@ -984,7 +984,7 @@ figure {
 
 			i{
 				position: absolute;
-				top: .3em;
+				top: .4em;
 				left: 0;
 				font-size: 22px;
 				color: rgba($brand-black,.3);
@@ -1156,7 +1156,7 @@ figure {
 }
 
 #fh5co-start-project-section{
-	padding: 7em 0;
+	padding: 4em 0;
 	background: #F64E8B;
 	h2{
 		color: rgba(255,255,255,1);
@@ -1445,13 +1445,13 @@ figure {
 }
 
 .row-bottom-padded-lg {
-	padding-bottom: 7em;
+	padding-bottom: 4em;
 	@media screen and (max-width: $screen-sm ) {
 		padding-bottom: 2em;
 	}
 }
 .row-top-padded-lg {
-	padding-top: 7em;
+	padding-top: 4em;
 	@media screen and (max-width: $screen-sm ) {
 		padding-top: 2em;
 	}
