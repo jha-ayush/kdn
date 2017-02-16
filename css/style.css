@@ -279,6 +279,7 @@ figure {
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
   color: #40943B;
+  font-weight: bold;
 }
 
 .sf-menu li,
@@ -303,6 +304,7 @@ figure {
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
   color: #40943B;
+  font-weight: bold;
 }
 
 .sf-menu ul li:hover,

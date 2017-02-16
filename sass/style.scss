@@ -395,6 +395,7 @@ figure {
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
 	color: $brand-primary;
+	font-weight: bold;
 	// text-shadow: 2px 2px 1px rgba(0, 0, 0, .08);
 }
 .sf-menu ul li:hover,
