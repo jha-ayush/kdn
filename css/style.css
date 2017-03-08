@@ -1493,8 +1493,8 @@ figure {
 }
 .fade-carousel .carousel-indicators > li {
     margin: 0 2px;
-    background-color: #40943B;
-    border-color: #40943B;
+    background-color: #DA121A;
+    border-color: #DA121A;
     opacity: .3;
 }
 .fade-carousel .carousel-indicators > li.active {
@@ -1584,13 +1584,13 @@ figure {
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(https://haqiqatalhabasha.files.wordpress.com/2014/03/dsc_2095.jpg);
+  background-image: url(http://s.newsweek.com/sites/www.newsweek.com/files/2014/12/12/1219cropdiversity01.jpg);
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(https://pcwoolner.files.wordpress.com/2015/09/dsc_1074.jpg);
+  background-image: url(https://ferengiaddis.files.wordpress.com/2011/04/wenchi-enset.jpg);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(https://pcwoolner.files.wordpress.com/2015/09/dsc_1071.jpg);
+  background-image: url(https://pcwoolner.files.wordpress.com/2015/09/dsc_1074.jpg);
 }
 
 /********************************/
