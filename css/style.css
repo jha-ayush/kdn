@@ -1493,8 +1493,8 @@ figure {
 }
 .fade-carousel .carousel-indicators > li {
     margin: 0 2px;
-    background-color: #DA121A;
-    border-color: #DA121A;
+    background-color: #40943B;
+    border-color: #40943B;
     opacity: .3;
 }
 .fade-carousel .carousel-indicators > li.active {
@@ -1566,8 +1566,8 @@ figure {
 .btn.btn-hero:hover,
 .btn.btn-hero:focus {
     color: #f5f5f5;
-    background-color: #40943B;
-    border-color: #40943B;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
     outline: none;
     margin: 20px auto;
 }
