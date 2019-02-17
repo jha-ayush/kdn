@@ -5,7 +5,9 @@
 
 - Web site redesigned for browser responsiveness and mobile-responsiveness
 - Logo design
-- New Template rendering
+- New template rendering
+- Web content update and maintenance
+- Subscription management with GoDaddy
 
 
-https://jha-ayush.github.io/kdn/
+Github repo: https://jha-ayush.github.io/kdn/
