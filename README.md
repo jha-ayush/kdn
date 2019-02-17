@@ -11,3 +11,4 @@
 
 
 Github repo: https://jha-ayush.github.io/kdn/
+Godaddy site: http://kdneth.org
